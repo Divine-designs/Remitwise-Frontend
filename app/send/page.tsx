@@ -73,6 +73,8 @@ export default function SendMoney() {
               </div>
             </div>
 
+            < AmountCurrencySection/>
+
             {/* Emergency Transfer Section - Placeholder */}
             <div className="bg-red-950/30 border border-red-900 rounded-xl p-6">
               <div className="flex items-start gap-4">
